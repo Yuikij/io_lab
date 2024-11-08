@@ -1,0 +1,11 @@
+README.md
+target/
+
+### NetBeans ###
+/nbbuild/
+/dist/
+/nbdist/
+build/
+
+git branch -M master
+
