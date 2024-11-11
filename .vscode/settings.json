@@ -3,6 +3,7 @@
         "socket.h": "c",
         "signal.h": "c",
         "struct_timespec.h": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "errno.h": "c"
     }
 }

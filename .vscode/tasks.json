@@ -29,7 +29,8 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/build/${fileBasenameNoExtension}"
+                "${fileDirname}/build/${fileBasenameNoExtension}",
+                "-laio"
             ],
             "options": {
                 "cwd": "${fileDirname}"

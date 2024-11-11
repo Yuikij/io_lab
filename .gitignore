@@ -6,6 +6,6 @@ target/
 /dist/
 /nbdist/
 build/
-
+tmp/
 git branch -M master
 
